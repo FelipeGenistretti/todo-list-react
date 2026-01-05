@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container-custom{
+    @apply px-[120px] py-[80px]
+}
